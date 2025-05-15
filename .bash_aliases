@@ -16,3 +16,7 @@ alias gsua='git submodule update --recursive --remote'
 alias gsw='git switch'
 # alias gcob='git branch | fzf | xargs git checkout'
 # alias lg='lazygit'
+
+# dots
+alias ..='cd ..'
+alias ...='cd .. && cd ..'
